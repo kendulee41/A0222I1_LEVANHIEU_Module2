@@ -14,6 +14,7 @@ public class character {
                 count++;
             }
         }
+
         System.out.println("The number of occurrences: "+count);
     }
 }
